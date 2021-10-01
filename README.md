@@ -1,8 +1,8 @@
 # HR-Analytics
 ## Executive Slide
-__Data set link:__    https://drive.google.com/file/d/1N5pLaeRaihj_KZp7DNpF_05YSxlC8e8X/view?usp=sharing
-__Video Link:__       https://drive.google.com/file/d/1xltnDLtkk57QENi7xDB3Gyu1Ud7hhEdg/view?usp=sharing
-__Tableau Project Link:__   https://public.tableau.com/app/profile/yamini.ailani8053/viz/HRAnalytics_16278888496100/Dashboard1?publish=yes
+- __Data set link:__    https://drive.google.com/file/d/1N5pLaeRaihj_KZp7DNpF_05YSxlC8e8X/view?usp=sharing
+- __Video Link:__       https://drive.google.com/file/d/1xltnDLtkk57QENi7xDB3Gyu1Ud7hhEdg/view?usp=sharing
+- __Tableau Project Link:__   https://public.tableau.com/app/profile/yamini.ailani8053/viz/HRAnalytics_16278888496100/Dashboard1?publish=yes
 
 __HR analytics:__
 - Recruitment
